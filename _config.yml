@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes@4.16.4"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : ""
 title_separator          : "-"
 name                     : "Junyi Wang"
 description              : "Junyi Wang's Personal Website." # Where does this show???
-url                      : "https://j-y-wang.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # "/images/yingxiang.jpeg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -293,31 +293,3 @@ defaults:
       comments: # true
       share: true
       related: true
-
-  # _research
-  - scope:
-      path: ""
-      type: research
-    values:
-      layout: single
-
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-
-  # _cv
-  - scope:
-      path: ""
-      type: cv
-    values:
-      layout: single
-
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
