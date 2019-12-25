@@ -5,8 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Experience 1:
-
 Teaching Assistant, NUAA, Spring, 2012
 
 Type: Undergraduate Diploma Project
