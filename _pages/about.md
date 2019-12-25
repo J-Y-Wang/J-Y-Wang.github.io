@@ -9,7 +9,7 @@ I graduated from [Nanjing University of Aeronautics and Astronautics (NUAA)](htt
 
 I worked for 4 years as research assistant in [Professor Qijun Zhao's](http://hti.nuaa.edu.cn/2017/0612/c1343a44483/page.htm) Rotorcraft Computational Fluid Dynamics Lab of [Helicopter Technology Institute](http://hti.nuaa.edu.cn) on CFD/CSD coupling method with application to flexible helicopter rotors.
 
-I then worked for 6 years in [China National Aero-Technology Import & Export Corporation (CATIC)](http://http://www.catic.cn/front), mainly about helicopters, UAVs, unmanned helicopters, torpedo, and mission equipment's R&D, integration, test, marketing and production management.
+I then worked for 6 years in [China National Aero-Technology Import & Export Corporation (CATIC)](http://http://www.catic.cn), mainly about helicopters, UAVs, unmanned helicopters, torpedo, and mission equipment's R&D, integration, test, marketing and production management.
 
 Research Interests
 ======
