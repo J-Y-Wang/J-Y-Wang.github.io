@@ -1,14 +1,18 @@
 ---
 title: 'Quick Notes for Java'
 date: 2019-04-18
-permalink: /posts/2019/04/blog-post-1/
+permalink: /posts/2019/04/blog-post-3/
 tags:
   - Java
   - Computer Science
   - Code Farmer
+categories:
+  - English
 ---
 
-## Part One: [w3schools Java tutorial](https://www.w3schools.com/java)
+## Part One: 
+
+**[w3schools Java tutorial](https://www.w3schools.com/java)**
 
 *This part is only for quick grammar notes, but does not explain concepts and definition very clearly.*
 
@@ -28,7 +32,9 @@ Well, big head come with the Java Class.
 
 `final` as a modifier like `constant` in Fortran.
 
-## Part Two: "Head First Java", by Kathy Sierra & Bert Bates
+## Part Two: 
+
+**"Head First Java", by Kathy Sierra & Bert Bates**
 
 Starting from "Head First Java"
 
@@ -105,13 +111,39 @@ Converting a string to an int `Integer.parseInt(yourString)`
 
 Optimize the game using ArrayList (API class)
 
+`ArrayList` never needs to know how big it should be. It looks very similar to the pointer concept in C++.
 
-## **To be continued**
-
+Find API in "Java in a nutshell-A desktop quick refernce" or HTML.API docs.
 
 ### Chapter 7: Better Living in Objectville
 
+Inheritance and polymorphism
+
+`superclass` versus `subclass`, what if the subclass is only partial inheritate from the superclass? It's override!
+
+Use inheritance to avoid duplicating codes in subclasses.
+
+The lowest method on the inheritance tree is called first.
+
+Use IS-A test for any inheritance relationships.
+
+But what if the `superclass` is modified, it might affect a bunch of subclass but not all the subclass want to be modified I guess? Only applicable in cases where IS-A test is passed?
+
+Use `final` modifier to prevent from being overridden.
+
 ### Chapter 8: Serious Polymorphism
+
+`abstract class`, useful only when extended, with no method body but declaration.
+
+`interface` (including abstract methods only) allows classes in different inheritance trees to implement a common thing. Multiple inheritance is not allowed due to "Deadly Diamond of Death".
+
+A `class` only extent one `class` but implement multiple `interface`.
+
+`super` allows to use superclass method, despite the subclass overridden.
+
+Class `Object` is a more universal but vague concept.
+
+Well, `interface` looks like a "Table of Content", it tells you what methods are in the subclasses, but don't explain it. You have to open the book and define by yourself. The benefit is that it will always remind you of what you should write about and where.
 
 ### Chapter 9: Life and Death of an Object
 
@@ -119,16 +151,24 @@ Optimize the game using ArrayList (API class)
 
 ### Chapter 11: Risky Behavior
 
+Feb 18
+
 ### Chapter 12: A Very Graphic Story
 
 ### Chapter 13: Work on Your Swing
 
 ### Chapter 14: Saving Objects
 
+Feb 19
+
 ### Chapter 15: Make a Connection
 
 ### Chapter 16: Data Structures
 
+Feb 20
+
 ### Chapter 17: Release Your Code
 
 ### Chapter 18: Distributed Computing
+
+Feb 21
