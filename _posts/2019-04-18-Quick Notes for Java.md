@@ -147,28 +147,75 @@ Well, `interface` looks like a "Table of Content", it tells you what methods are
 
 ### Chapter 9: Life and Death of an Object
 
+`instance variable` lives within the object they belong to, on the *Heap*.
+
+`method` lives in *stack* with current `method` on the top of it.
+
+Use `constructor` to initialize important state and keep identical name to class with no return type.
+
+`overload` when there is more than one `constructor`, but they must have different argument list.
+
+`super()` calls the superclass constructor, which must finish before its subclass constructor.
+
+Superclass constructors with arguments are used to send information from subclass to superclass, expecially for `private` instance variables.
+
+***`this` used for overloaded constructor from another?***
+
+`null` means deprogramming the 'remote control' to somethings.
+
 ### Chapter 10: Numbers Matter
 
-### Chapter 11: Risky Behavior
+`static` lets a method run without any instance of the class, therefore no object (on the heap) in this case, e.g. Math.xxx(). It should be called using the class name rather than an object refrence variable.
 
-Feb 18
+But a static method can access a static variable.
+
+Static variables are shared and initialized (or default value) before any object of that class can be created.
+
+Constant variable names should all be in caps!
+
+What `final` mean to different things:
+
+|Things	|You can't	|
+|:-------:|:-------:	|
+|Variable	|Change value	|
+|Method	|Override		|
+|Class		|Extend		|
+
+`import static` will make the code confusing to read, so I guess it's better to avoid it and most editors have the auto-completion function.
+
+Number and date formatting...
+
+## Feb 21
+
+### Chapter 11: Risky Behavior
+40p
 
 ### Chapter 12: A Very Graphic Story
+40p
+
+## Feb 22
 
 ### Chapter 13: Work on Your Swing
+30p
+
 
 ### Chapter 14: Saving Objects
+40p
 
-Feb 19
+## Feb 23
 
 ### Chapter 15: Make a Connection
+60p
+
+## Feb 24
 
 ### Chapter 16: Data Structures
+50p
 
-Feb 20
+## Feb 25
 
 ### Chapter 17: Release Your Code
+20p
 
 ### Chapter 18: Distributed Computing
-
-Feb 21
+40p
