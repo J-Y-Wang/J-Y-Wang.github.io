@@ -1,5 +1,5 @@
 ---
-title: 'Quick Notes for Java'
+title: 'Notes of Basic Java'
 date: 2019-04-18
 permalink: /posts/2019/04/blog-post-3/
 tags:

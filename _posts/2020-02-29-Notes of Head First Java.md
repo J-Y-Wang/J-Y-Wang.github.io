@@ -1,5 +1,5 @@
 ---
-title: 'Quick Notes for Head First Java'
+title: 'Notes of Head First Java'
 date: 2020-02-21
 permalink: /posts/2020/02/blog-post-5/
 tags:
@@ -157,37 +157,35 @@ What `final` mean to different things:
 
 Number and date formatting...
 
-## Feb 22
-
 ## Chapter 11: Risky Behavior
-40p
 
-## Feb 23
+Use `try` and `catch` for exception on method that could fail (but not flaws in code)， and exception is declared as `throw` in the risky method. Then use `finally` if something needs to be done anyway.
+
+Runtime exceptions are not checked by the compiler.
+
+Multiple catch blocks must be ordered from smallest to biggest.
 
 ## Chapter 12: A Very Graphic Story
-40p
 
-## Feb 24
+Use `JFrame frame = new JFrame();` to make a GUI, use `frame.getContentPane().add(button);` to add widgets, and give size to the window using `frame.setSize(300,300);` or `frame.setVisible(ture);`.
+
+Registration methods `add<EventType>Listener`.
+
+Inner class.
 
 ## Chapter 13: Work on Your Swing
-30p
 
-## Feb 25
+Layout manager
 
 ## Chapter 14: Saving Objects
-40p
 
-## Feb 26-27
+
 
 ## Chapter 15: Make a Connection
 60p
 
-## Feb 27-28
-
 ## Chapter 16: Data Structures
 50p
-
-## Feb 29
 
 ## Chapter 17: Release Your Code
 20p

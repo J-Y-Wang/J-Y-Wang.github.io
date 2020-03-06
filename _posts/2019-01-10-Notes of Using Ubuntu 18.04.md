@@ -1,5 +1,5 @@
 ---
-title: 'Notes about using Ubuntu 18.04'
+title: 'Notes of Using Ubuntu 18.04'
 date: 2019-01-10
 permalink: /posts/2019/01/blog-post-1/
 tags:
