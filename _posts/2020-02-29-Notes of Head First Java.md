@@ -177,18 +177,30 @@ Inner class.
 
 Layout manager
 
+> Read details if using it someday.
+
 ## Chapter 14: Saving Objects
 
+Serilization and I/O
 
+> Read details if using it someday.
 
 ## Chapter 15: Make a Connection
-60p
+
+Network
+
+> Read details if using it someday.
 
 ## Chapter 16: Data Structures
-50p
+
+> Read details if using it someday.
 
 ## Chapter 17: Release Your Code
-20p
+
+Source code and class file not in the same directory, manage it.
+
+> Read details if using it someday.
 
 ## Chapter 18: Distributed Computing
-40p
+
+> Read details if using it someday.
