@@ -4,7 +4,7 @@ title: "My Research Highlights"
 permalink: /research/
 author_profile: true
 ---
-## Aeroelasticity Analysis Using CFD/CSD Coupling Method  
+### Aeroelasticity Analysis Using CFD/CSD Coupling Method  
 
 **Comparison between CFD Result and CFD/CSD Result:**  
 
@@ -15,7 +15,7 @@ author_profile: true
 <img src="/images/3.jpg" width="500px" />  
 
 
-## CFD Analysis  
+### CFD Analysis  
 
 **The Flowfield Grid System:**  
 
@@ -26,7 +26,7 @@ author_profile: true
 <img src="/images/8.jpg" width="450px" />  
 
 
-## CSD Analysis  
+### CSD Analysis  
 
 **CSD Model:**  
 
@@ -37,11 +37,11 @@ author_profile: true
 <img src="/images/4.jpg" width="500px" />  
 
 
-## Grid Generation and Refinement  
+### Grid Generation and Refinement  
 
 <img src="/images/1.jpg" width="500px" />  
 
 
-## Computational Aeroacoustics  
+### Computational Aeroacoustics  
 
 <img src="/images/9.jpg" width="500px" />
