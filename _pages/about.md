@@ -12,15 +12,13 @@ I graduated from [Nanjing University of Aeronautics and Astronautics (NUAA)](htt
 
 I worked for 4 years as research assistant in [Professor Qijun Zhao's](http://hti.nuaa.edu.cn/2017/0612/c1343a44483/page.htm) Rotorcraft Computational Fluid Dynamics Lab of [Helicopter Technology Institute](http://hti.nuaa.edu.cn) on CFD/CSD coupling method with application to flexible helicopter rotors.
 
-Research Interests
-======
+## Research Interests  
 + Rotorcraft
 + UAV
 + System Integration
 + Cooperative Control
 
-Recent News
-======
+## Recent News  
 + 2020-04-18 Found my interests in Cooperative Control of UAVs
 + 2019-12-21 RPI admission rescinded, F1 Visa withdrawal
 + 2019-10-19 F1 Visa still pending
