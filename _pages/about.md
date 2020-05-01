@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "A Brief Introduction about Myself"
 permalink: /about/
 author_profile: true

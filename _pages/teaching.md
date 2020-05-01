@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "My Teaching Experience"
 permalink: /teaching/
 author_profile: true
